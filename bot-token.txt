@@ -1,0 +1,8 @@
+Quickbot Token
+MTAwNTgzNDEyOTAyOTQ3NjQzMg.G3aXbu.cx_DHpGqGRFLp8j7bdec5W34MJiig9wurLgn0k
+{
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "winston": "^3.8.1"
+  }
+}

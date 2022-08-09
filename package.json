@@ -1,0 +1,12 @@
+{
+  "name": "Anakin",
+  "version": "1.0.0",
+  "description": "First Disc Bot",
+  "main": "bot.js",
+  "author": "Teddy L",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "git": "^0.1.5",
+    "winston": "^3.8.1"
+  }
+}
